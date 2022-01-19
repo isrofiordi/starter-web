@@ -17,5 +17,5 @@ coba2 aja nulis
 ## How to Contribute
 Please fork this repository and then issue pull request for review
 
-###Copyright
+##Copyright
 Data latihan ini dimiliki semua yang berakal
