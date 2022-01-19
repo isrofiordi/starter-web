@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This is a simple website project that i learn from udemy course
+This is a simple website project that i learn from udemy course.
+Ini basa basi buat rebasing.
 
 ## Introduction
 
