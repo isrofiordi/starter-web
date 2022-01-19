@@ -15,3 +15,6 @@ Tujuannya murni untuk belajar
 coba2 aja nulis
 
 ## How to Contribute
+
+###Copyright
+Data latihan ini dimiliki semua yang berakal
