@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project that i learn from udemy course.
-Ini basa basi buat rebasing, then even more changes in mybranch
+Updating for emergency fix after stashing.
 
 ## Introduction
 
