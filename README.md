@@ -19,4 +19,4 @@ coba2 aja nulis
 Please fork this repository and then issue pull request for review
 
 ### Copyright
-Data latihan ini dimiliki semua yang berakal
+Data latihan ini dimiliki semua yang berakal. All rights reserved
